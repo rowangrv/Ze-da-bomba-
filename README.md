@@ -4,9 +4,9 @@ Trabalho de Interação Humano-Robô (IHR) apresentado ao Centro Universitário 
 
 ## Componentes do Grupo
 
-- Nome - RA
-- Nome - RA
-- Nome - RA
+- Luca Arello - 12.224.086-4
+- Rowan Rocha - 12.224.051-8
+- Ricardo Scalambrine - 12.121.282-3
 
 ## Resumo
 
